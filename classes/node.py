@@ -1,5 +1,5 @@
 from classes import edge
-import graphviz
+#import graphviz
 import pydotplus
 
 class Node:
