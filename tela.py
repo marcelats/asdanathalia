@@ -1,9 +1,9 @@
 from tkinter import *
-from tkinter import ttk
-from tkinter.filedialog import  askopenfilename, asksaveasfilename
+#from tkinter import ttk
+#from tkinter.filedialog import  askopenfilename, asksaveasfilename
 import geradorJava, geradorPython, geradorR
-from PIL import ImageTk, Image
-from tkinter import messagebox
+#from PIL import ImageTk, Image
+#from tkinter import messagebox
 import shutil
 import gabaritos
 import codigo
