@@ -1,4 +1,2 @@
-Pillow==9.2.0
-pydotplus==2.0.2
-pygraphviz==1.7
-pyinstaller==5.1
+pydotplus
+

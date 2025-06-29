@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  grafos:
+    build:
+      context: ./
+    container_name: processador_graphviz
+    volumes:
+      - ./processador_graphviz:/app
+    working_dir: /app
+    command: python3 tela.py
+
