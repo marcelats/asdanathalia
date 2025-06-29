@@ -1,4 +1,4 @@
-from tkinter import *
+#from tkinter import *
 #from tkinter import ttk
 #from tkinter.filedialog import  askopenfilename, asksaveasfilename
 import geradorJava, geradorPython, geradorR
