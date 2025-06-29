@@ -1,6 +1,6 @@
 from classes import edge
 #import graphviz
-import pydotplus
+#import pydotplus
 
 class Node:
 
